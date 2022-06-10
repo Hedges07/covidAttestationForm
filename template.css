@@ -1,0 +1,54 @@
+html {
+    font-size: x-large;
+    margin: 25px 50px 75px 100px;
+}
+.headerLeft {
+    text-align: right;
+}
+input[type="text"] {
+    background-color: rgb(215, 224, 250);
+    height: 3em;
+    width: 35em;
+    padding: .5em;
+}
+.box {
+    border: 2px solid black;
+    background-color: whitesmoke;
+}
+
+.button {
+    display: block;
+    width: 115px;
+    height: 25px;
+    background-color: gray;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    line-height: 25px;
+}
+
+.buttonsInline {
+    display: inline
+}
+
+.radios{
+    color: rgb(215, 224, 250);
+}
+
+textarea  {
+    width: 100%;
+    background-color: rgb(215, 224, 250);
+}
+
+.footerRight {
+    float: right;
+}
+
+.footerLeft {
+    float: left;
+}
+
+.headerRight {
+    float: right;
+}
